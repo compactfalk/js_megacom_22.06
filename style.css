@@ -1,0 +1,18 @@
+header {width: 100%}
+.menu
+{
+	background-color: blue;
+	border-radius: 10px;
+	box-shadow: 1px 0 1px 0;
+	display: flex;
+	justify-content: space-around;
+}
+.menu div
+{
+	background-image: url(ликсвятой.jpg);
+	width: 200px;
+	height: 75px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
